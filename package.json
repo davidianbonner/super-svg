@@ -1,10 +1,10 @@
 {
-  "name": "easy-svg",
+  "name": "super-svg",
   "version": "1.0.0",
   "description": "A simple, unobtrusive and helpful plugin to load SVG icons and spritesheets.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbonner1987/easy-svg.git"
+    "url": "git+https://github.com/dbonner1987/super-svg.git"
   },
   "keywords": [
     "SVG",
@@ -19,9 +19,9 @@
     "email": "david@continuuminteractive.com",
     "url": "https://github.com/dbonner1987"
   },
-  "homepage": "https://github.com/dbonner1987/easy-svg",
+  "homepage": "https://github.com/dbonner1987/super-svg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dbonner1987/easy-svg/issues"
+    "url": "https://github.com/dbonner1987/super-svg/issues"
   }
 }

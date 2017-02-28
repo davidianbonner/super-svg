@@ -1,8 +1,8 @@
-# Easy SVG
+# Super SVG
 
 ###### N.B. This plugin is very much in it's infancy and was put together to handle my personal needs with a project. Both tests and build scripts are coming soon. A CSS stylesheet will be included shortly as well.
 
-## How easy?
+## How super?
 
 @todo
 
@@ -17,7 +17,7 @@ Include jQuery (but you knew that already).
 Include the plugin:
 
 ```html
-<script src="dist/jquery.easy-svg.min.js"></script>
+<script src="dist/jquery.super-svg.min.js"></script>
 ```
 
 #### Step 3
@@ -39,7 +39,7 @@ Use `[data-icon="svg-id"]` to initialise the icons. The `data-icon` attribute ta
 
 ## Contributing
 
-Check [CONTRIBUTING.md](https://github.com/dbonner1987/easy-svg/blob/master/CONTRIBUTING.md) for more information.
+Check [CONTRIBUTING.md](https://github.com/dbonner1987/super-svg/blob/master/CONTRIBUTING.md) for more information.
 
 ## License
 
