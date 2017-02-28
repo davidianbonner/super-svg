@@ -2,6 +2,7 @@
   "name": "super-svg",
   "version": "1.0.0",
   "description": "A simple, unobtrusive and helpful plugin to load SVG icons and spritesheets.",
+  "main": "jquery.super-svg.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dbonner1987/super-svg.git"
