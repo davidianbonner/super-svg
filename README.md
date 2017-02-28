@@ -24,7 +24,7 @@ Include the plugin:
 
 Set the path to the SVG sprite sheet. Sprite sheets can be generated at https://icomoon.io/ or put together manually.
 
-```html
+```javascript
 // 'window.$svgpath' can be a string
 $.fn.svgIcon.options.path = window.$svgpath;
 ```
@@ -33,7 +33,7 @@ $.fn.svgIcon.options.path = window.$svgpath;
 
 Use `[data-icon="svg-id"]` to initialise the icons. The `data-icon` attribute takes the ID associated with the symbol within the SVG document.
 
-```javascript
+```html
 <span class="my-icon-class" data-icon="star"></span>
 ```
 
