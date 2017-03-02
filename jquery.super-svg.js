@@ -26,7 +26,7 @@
       if (svg) {
         svg = svg.outerHTML;
 
-        var html = svg.replace(/<symbol/g, "<svg class=\"${classes}\" ${!~svg.indexOf('xmlns') ? ' xmlns=\"http://www.w3.org/2000/svg\"' : ''}").replace(/symbol>/g, 'svg>');
+        var html = svg.replace(/<symbol/g, '<svg class="'+classes+'" '+(!~svg.indexOf('xmlns') ? ' xmlns="http://www.w3.org/2000/svg"' : '')).replace(/symbol>/g, 'svg>');
         $(this).append(html);
       }
     });
